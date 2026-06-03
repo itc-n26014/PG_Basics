@@ -1,0 +1,5 @@
+a = input("type a number:")
+b = input("type another:")
+a = int(a)
+a = int(b)
+print(a / b)
